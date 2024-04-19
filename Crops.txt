@@ -1,0 +1,10 @@
+fruit RedApple 45 winter sweet 3 1133
+fruit Orange 50 autumn sour 4 5967
+fruit Kiwi 10 autumn sour 10 1133
+vegetable Parsley 25 Samsun 1429
+vegetable Mint 15 Adana 1429
+fruit GreenApple 25 winter sweet 6 1133
+fruit Orange 20 autumn sour 4 1322
+fruit GreenApple 5 winter sweet 6 5343
+vegetable GreenBeans 22 Bursa 1322
+fruit Banana 63 summer sweet 12 5343
